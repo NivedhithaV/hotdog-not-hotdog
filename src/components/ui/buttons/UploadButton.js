@@ -17,7 +17,7 @@ class UploadButton extends Component {
 					paddingHorizontal: 16,
 					paddingVertical: 10,
 					borderRadius: 6,
-					chrmargin: 20
+					margin: 20
 				}}>
 				<Text
 					style={{
